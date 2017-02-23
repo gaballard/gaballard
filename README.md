@@ -1,5 +1,6 @@
 # Geoffrey Ballard
-### Full-Stack Software Engineer
+
+#### Full-Stack Software Engineer
 
 Design savvy full-stack engineer with 4 years of experience building complex, scalable, and robust applications for web, mobile, and desktop. Experienced leading client projects and internal product development as well as managing junior staff and interns.
 
@@ -91,7 +92,7 @@ _Freelance, Los Angeles, CA_
 
 Worked with local businesses, artists, and startups to create and maintain modern web sites and applications using a range of technologies. Project experience includes:
 
-##### Electric Geoffrey (2013-2014)
+##### Electric Geoffrey (2012-2014)
 
 Created and maintained a site for local Los Angeles electronic musician using the MEAN stack and featuring a custom audio player.
 
