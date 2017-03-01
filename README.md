@@ -23,6 +23,7 @@ Design savvy full-stack engineer with 4 years of experience building complex, sc
 - Linux (incl. Ubuntu, Debian, Raspbian, Arch Linux, LFS)
 - Functional programming
 - Agile / SCRUM
+- Microservices
 - Component-based architectures
 - REST APIs
 - Git / GitHub
