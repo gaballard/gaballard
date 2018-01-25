@@ -1,26 +1,35 @@
 # Geoffrey Ballard
 
-#### Full-Stack Software Engineer
+#### Full-Stack JavaScript Developer / DevOps Engineer
 
-Design savvy full-stack engineer with 4 years of experience building complex, scalable, and robust applications for web, mobile, and desktop. Experienced leading client projects and internal product development as well as managing junior staff and interns.
+Design savvy full-stack software and DevOps engineer with 5 years of experience building complex, scalable, and robust applications for web, mobile, and desktop. Experienced leading client projects and internal product development as well as managing junior staff and interns.
 
 - Familiar with every step of the development and project management process.
 - Learns something new every day and has no problems rapidly becoming familiar with new technology.
-- Experienced in managing everything from interns to client expectations.
+- Experienced in managing everything from interns to expectations.
 
 ### Technical Skills
 
 - ES6 JavaScript
 - Node.js
-- Express
+- Express.js
+- Koa
+- GraphQL / Apollo
 - MongoDB
+- Redux / React
 - AngularJS
 - Ionic / Apache Cordova
 - D3.js
 - Docker
 - Kubernetes
-- IoT (Raspberry Pi / Arduino)
+- Terraform
+- Packer
+- Vagrant
+- VirtualBox
+- IoT (Raspberry Pi, Arduino)
 - Linux (incl. Ubuntu, Debian, Raspbian, Arch Linux, LFS)
+- DevOps
+- Infrastructure as Code (IaC)
 - Functional programming
 - Agile / SCRUM
 - Microservices
@@ -33,9 +42,54 @@ Design savvy full-stack engineer with 4 years of experience building complex, sc
 
 #### Software Engineer (6/2015 - Present)
 
-_AktaryTech, Santa Monica, CA_
+_AktaryTech, Playa Vista, CA_
 
-Full-stack JavaScript engineer who designs and develops custom software, including web and hybrid mobile apps. Designs data visualizations, works directly with clients, and manages the engineering internship program. Project experience includes:
+Full-stack JavaScript developer and DevOps engineer who designs, develops, deploys, and maintains custom software, including web and hybrid mobile apps. Designs data visualizations, works directly with clients, and manages the engineering internship program. Project experience includes:
+
+##### ERC dEX (2017-Present)
+
+Performing ongoing work as a DevOps engineer and consultant for an Ethereum-based cryptocurrency exchange. The exchange uses the 0x protocol and allows the trading of a number of ERC20-compliant tokens.
+
+- Platform is deployed as containerized microservices on a Kubernetes cluster.
+- Helped prepare existing infrastructure for a production environment.
+- Adopted infrastructure-as-code tools and paradigms.
+- Wrote Terraform configurations and deployed to GCP.
+- Updated existing application Kubernetes configs and wrote new ones as needed.
+- Designed, configured, and deployed a monitoring and alerting system using Prometheus and Grafana.
+- Tooled Node.js APIs to return fine-grained Prometheus metrics.
+- Performed security audits based on OWASP security recommendations and assisted with compliance.
+
+##### Appetize (2017)
+
+Spent several weeks consulting with and assisting the Appetize team during their migration to a new containerized infrastructure using Docker and Kubernetes.
+
+- Outlined and recommended possible DevOps technology choices.
+- Chose kops to quickly stand up a K8s cluster on AWS.
+- Wrote all necessary Kubernetes configuration files.
+- Updated and streamlined existing Dockerfiles.
+- Ported YAML configurations from Docker Compose to Kubernetes.
+- Answered team questions and gave DevOps advice where needed.
+
+##### USA Today (2017)
+
+Was brought on to assist the team redesigning USA Today’s Fantasy Football website work through a backlog of new features, as well as refactor and debug existing code as needed.
+
+- Built using Redux / React and featuring chunked server-side rendering.
+- Planned, coded, and implemented new views and features based on client-provided mocks and requirements.
+- Created React component hierarchies, sketched out state, and defined actions, reducers, etc., as part of planning process.
+- Analyzed and refactored previous coding approaches to solve various issues and follow best practices.
+
+##### Universal Music (2017)
+
+Designed and implemented the DevOps infrastructure for a new data-intensive suite of internal applications. Also assisted in designing, coding, and implementing a GraphQL API that provides flexible, highly-available access to a number of large datasets.
+
+- Implemented a microservice-based architecture using Docker and Kubernetes.
+- Used infrastructure as code (IaC) tools to maintain a version-controlled DevOps platform.
+- Deployed a CI/CD pipeline designed to let individual developers easily deploy updated software to the cluster.
+- Integrated Prometheus metrics endpoints into each application.
+- Set up a comprehensive monitoring and alerting system using Weave Cloud, PromQL, Alertmanager, and Grafana.
+- Provided various scripts and utilities to manage configurations, logs, and more.
+- Helped develop a GraphQL-based API that interacts with a MongoDB cluster and Google's Big Table database.
 
 ##### Socket Capital Asset Leverage Engine (SCALE) (2015-2017)
 
@@ -70,51 +124,6 @@ Created the marketing site and assisted in the design of a group finance startup
 - Worked closely with UX/UI designer to build a site from scratch based on their designs.
 - Assisted in planning the MVP application’s NodeJS API.
 - Met with gift card distribution companies and gathered information for possible API implementations.
-
-##### Timecard (In Progress)
-
-Created an internal utility to interface with various time tracking and payroll services using NodeJS.
-
-- Built with NodeJS and Express.
-- Uses server-side OAuth for interacting with various SaaS platforms, including Harvest and Xero.
-- Provides a simple client interface for managing employees and third-party API connections.
-
-##### Struct (In Progress)
-
-Used NodeJS and Express to create a microservice providing a RESTful API for interacting with various command-line tools.
-
-- Built with NodeJS and Express to interact with the Bash shell.
-- Provides a web client interface for leveraging the abilities of tools and utilities running on a VPS or other Linux-based virtual machine.
-- Uses Websockets to provide the client with live monitoring of command progress.
-
-#### Web Developer (12/2012 – 6/2015)
-
-_Freelance, Los Angeles, CA_
-
-Worked with local businesses, artists, and startups to create and maintain modern web sites and applications using a range of technologies. Project experience includes:
-
-##### Electric Geoffrey (2012-2014)
-
-Created and maintained a site for local Los Angeles electronic musician using the MEAN stack and featuring a custom audio player.
-
-- Designed and built from scratch using NodeJS, Express, MongoDB, and AngularJS.
-- Worked closely with client to ensure brand consistency throughout.
-- Used Instagram and Twitter APIs to provide embedded content streams.
-- Created a custom HTML5 embedded audio player that interacted with audio hosting service Soundcloud’s API.
-
-##### Pick Provider (2014-2015)
-
-Created an MVP for a startup that delivers musical accessories using a subscription-based model.
-
-- Built from scratch using NodeJS, Express, MongoDB, and AngularJS.
-- Worked closely with client to create a RESTful API that assisted in managing delivery logistics.
-
-##### ZFit Studios (2014)
-
-Designed the backend for a Los Angeles fitness studio’s website using PHP and MySQL.
-
-- Designed and used PHP5 to build a RESTful API for interacting with a MySQL database and other services.
-- Integrated PayPal’s payment processing API.
 
 ### Education
 
