@@ -46,7 +46,7 @@ _AktaryTech, Playa Vista, CA_
 
 Full-stack JavaScript developer and DevOps engineer who designs, develops, deploys, and maintains custom software, including web and hybrid mobile apps. Designs data visualizations, works directly with clients, and manages the engineering internship program. Project experience includes:
 
-##### ERC dEX (2017-Present)
+##### ERC dEX (2017-2018)
 
 Performing ongoing work as a DevOps engineer and consultant for an Ethereum-based cryptocurrency exchange. The exchange uses the 0x protocol and allows the trading of a number of ERC20-compliant tokens.
 
@@ -70,7 +70,7 @@ Spent several weeks consulting with and assisting the Appetize team during their
 - Ported YAML configurations from Docker Compose to Kubernetes.
 - Answered team questions and gave DevOps advice where needed.
 
-##### USA Today (2017)
+##### USA Today (2017-2018)
 
 Was brought on to assist the team redesigning USA Today’s Fantasy Football website work through a backlog of new features, as well as refactor and debug existing code as needed.
 
