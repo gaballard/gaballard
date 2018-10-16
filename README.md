@@ -46,6 +46,18 @@ _AktaryTech, Playa Vista, CA_
 
 Full-stack JavaScript developer and DevOps engineer who designs, develops, deploys, and maintains custom software, including web and hybrid mobile apps. Designs data visualizations, works directly with clients, and manages the engineering internship program. Project experience includes:
 
+##### VideoAmp (2018)
+
+Provided advice and assistance to an ad tech startup as they refactored their legacy software into a unified suite of applications.
+
+- Refactored an existing React application to use Redux
+- Expanded app test coverage and wrote end-to-end tests with Cypress
+- Analyzed and created diagrams and documentation for existing apps
+- Wrote shell scripts to help automate the local development process
+- Deployed applications using the company's custom CI/CD pipeline
+- Advised leadership about general React/Redux development
+- Helped refactor a legacy Node.js REST API to use GraphQL
+
 ##### ERC dEX (2017-2018)
 
 Performing ongoing work as a DevOps engineer and consultant for an Ethereum-based cryptocurrency exchange. The exchange uses the 0x protocol and allows the trading of a number of ERC20-compliant tokens.
