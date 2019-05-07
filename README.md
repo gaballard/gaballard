@@ -40,7 +40,21 @@ Design savvy full-stack software and DevOps engineer with 5 years of experience 
 
 ### Professional Experience
 
-#### Software Engineer (6/2015 - Present)
+#### Senior Platform Architect (11/2018 - 4/2019)
+
+_Saucey Inc., Los Angeles, CA_
+
+Worked closely with the CTO to maintain and upgrade the infrastructure that powered their national on-demand delivery platform. 
+
+- Improved ETA predictions across all stages of the order lifecycle
+- Created a number of data analysis tools to assist with ETA predictions and monitoring
+- Helped identify and eliminate bugs and edge cases throughout the codebase
+- Began Dockerizing microservices and deploying them on a Kubernetes cluster
+- Began transitioning to Terraform for infrastructure management
+- Wrote a custom continuous delivery tool to automatically watch for and deploy new Docker images
+- Helped clean up codebase and began converting it to TypeScript
+
+#### Senior Software Engineer (6/2015 - 11/2018)
 
 _AktaryTech, Playa Vista, CA_
 
