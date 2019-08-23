@@ -1,8 +1,8 @@
 # Geoffrey Ballard
 
-#### Full-Stack JavaScript Developer / DevOps Engineer
+#### Full-Stack JavaScript Developer
 
-Design savvy full-stack software and DevOps engineer with 5 years of experience building complex, scalable, and robust applications for web, mobile, and desktop. Experienced leading client projects and internal product development as well as managing junior staff and interns.
+Design savvy full-stack JavaScript developer with 5 years of experience building complex, scalable, and robust applications for web, mobile, and desktop. Experienced leading client projects and internal product development as well as managing junior staff and interns.
 
 - Familiar with every step of the development and project management process.
 - Learns something new every day and has no problems rapidly becoming familiar with new technology.
@@ -12,31 +12,18 @@ Design savvy full-stack software and DevOps engineer with 5 years of experience 
 
 - ES6 JavaScript
 - Node.js
-- Express.js
-- Koa
-- GraphQL / Apollo
+- React / Redux
+- GraphQL
 - MongoDB
-- Redux / React
-- AngularJS
-- Ionic / Apache Cordova
-- D3.js
+- Postgres
 - Docker
 - Kubernetes
 - Terraform
-- Packer
-- Vagrant
-- VirtualBox
 - IoT (Raspberry Pi, Arduino)
 - Linux (incl. Ubuntu, Debian, Raspbian, Arch Linux, LFS)
 - DevOps
 - Infrastructure as Code (IaC)
-- Functional programming
-- Agile / SCRUM
-- Microservices
-- Component-based architectures
-- REST APIs
-- Git / GitHub
-- Websockets
+- Microservice architectures
 
 ### Professional Experience
 
