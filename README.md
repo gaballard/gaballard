@@ -1,38 +1,63 @@
 # Geoffrey Ballard
 
-#### Full-Stack JavaScript Developer
+## Senior Engineer - Software & Service Delivery
 
-Design savvy full-stack JavaScript developer with 5 years of experience building complex, scalable, and robust applications for web, mobile, and desktop. Experienced leading client projects and internal product development as well as managing junior staff and interns.
+Design savvy software engineer with experience building and delivering complex, scalable, and robust applications for web, mobile, and desktop.
 
-- Familiar with every step of the development and project management process.
-- Learns something new every day and has no problems rapidly becoming familiar with new technology.
-- Experienced in managing everything from interns to expectations.
+---
 
 ### Technical Skills
 
-- ES6 JavaScript
-- Node.js
-- React / Redux
-- GraphQL
+#### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- C#
+
+#### Frameworks
+
+- Node.JS
+- React
+- Mobx
+- Redux
+- Angular
+- Express
+- Koa
+
+#### Infrastructure
+
 - MongoDB
 - Postgres
+- Redis
 - Docker
 - Kubernetes
 - Terraform
-- IoT (Raspberry Pi, Arduino)
-- Linux (incl. Ubuntu, Debian, Raspbian, Arch Linux, LFS)
-- DevOps
-- Infrastructure as Code (IaC)
-- Microservice architectures
+- Linux
 
-### Professional Experience
+#### Design
 
-#### Senior Platform Architect (11/2018 - 4/2019)
+- Photoshop
+- Blender
+- Unity
 
-_Saucey Inc., Los Angeles, CA_
+---
 
-Worked closely with the CTO to maintain and upgrade the infrastructure that powered their national on-demand delivery platform. 
+### Selected Project Experience
 
+##### UniTrade (2020-Present)
+
+Worked on a set of tools that allow limit ordering of cryptocurrencies on the UniSwap platform.
+
+- Created TypeScript/Node.js service to watch exchange prices and automatically execute pending limit orders
+- Implemented Docker for rapid deployment of monitoring service
+- Assisted in integrating data reporting into client React application
+
+##### Saucey (2018-2019)
+
+Worked as the senior platform architect for a national on-demand delivery service.
+
+- Worked closely with the CTO to maintain and upgrade platform infrastructure
 - Improved ETA predictions across all stages of the order lifecycle
 - Created a number of data analysis tools to assist with ETA predictions and monitoring
 - Helped identify and eliminate bugs and edge cases throughout the codebase
@@ -40,12 +65,6 @@ Worked closely with the CTO to maintain and upgrade the infrastructure that powe
 - Began transitioning to Terraform for infrastructure management
 - Wrote a custom continuous delivery tool to automatically watch for and deploy new Docker images
 - Helped clean up codebase and began converting it to TypeScript
-
-#### Senior Software Engineer (6/2015 - 11/2018)
-
-_AktaryTech, Playa Vista, CA_
-
-Full-stack JavaScript developer and DevOps engineer who designs, develops, deploys, and maintains custom software, including web and hybrid mobile apps. Designs data visualizations, works directly with clients, and manages the engineering internship program. Project experience includes:
 
 ##### VideoAmp (2018)
 
@@ -113,15 +132,6 @@ Worked with a capital lending company in San Francisco to design and engineer a 
 - Helped build NodeJS backend used for complex financial data aggregations and reporting.
 - Used data created by the NodeJS backend to create interactive data visualizations using D3.
 
-##### AirMule (2015-2016)
-
-Worked with an international package delivery startup to turn wireframe designs into a hybrid mobile app that interacted with a highly customized NodeJS backend.
-
-- Built from scratch using Ionic, AngularJS, and Apache Cordova.
-- Integrated Stripe’s payment processing API.
-- Leveraged Google Map’s standard and China-specific APIs to provide a robust interface for international trip and shipment selection.
-- Interacted closely with the NodeJS API to retrieve and manage shipment data across multiple countries.
-
 ##### Renaissance Learning (2016)
 
 Was tasked with upgrading the AngularJS portion of a multi-billion dollar educational software company’s flagship application.
@@ -130,25 +140,19 @@ Was tasked with upgrading the AngularJS portion of a multi-billion dollar educat
 - Client team did not have a capable AngularJS engineer and lacked documentation for the AngularJS services.
 - Became familiar with the application and worked closely with the client’s team to upgrade features and integrate new ones.
 
-##### LopplePay (2016-2017)
-
-Created the marketing site and assisted in the design of a group finance startup’s MVP application.
-
-- Worked closely with UX/UI designer to build a site from scratch based on their designs.
-- Assisted in planning the MVP application’s NodeJS API.
-- Met with gift card distribution companies and gathered information for possible API implementations.
+---
 
 ### Education
 
 #### B.A., English Language & Literature (2009)
 
-_Florida State University_
+_Florida State University, FL_
 
 - Earned all A’s in competitive, high-level writing classes and graduated on the Dean’s List. 
 - Minored in Classics and studied Latin to gain a powerful understanding of language and grammar.
 
 #### A.A., Studio Art & Design (2006)
 
-_Seminole State College_
+_Seminole State College, FL_
 
 - Studied the principles of two- and three-dimensional design and learned to apply them to both studio and digital art.
